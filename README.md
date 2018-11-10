@@ -1,2 +1,1 @@
-# inetdk.github.io
-website InetDK
+# kubik
